@@ -80,5 +80,5 @@ python seed.py
 ## example migrate using alembic:
 
 ```bash
-alembic revision --autogenerate -m "add is_admin to users" alembic upgrade head"
+alembic revision --autogenerate -m "add is_admin to users" alembic upgrade head
 ```
